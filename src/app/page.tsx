@@ -12,11 +12,11 @@ export default function Home() {
             신현석
           </h1>
           <p className="text-sm font-medium text-blue-600 dark:text-blue-400">
-            대학생 / 바이브 코딩
+            소프트웨어 엔지니어 / Web Developer
           </p>
         </div>
         <p className="text-gray-600 dark:text-zinc-300 leading-relaxed text-base">
-          안녕하세요! 바이브 코딩을 배우고 있는 대학생입니다.
+          새로운 기술을 탐구하고 직관적인 사용자 경험(UX)을 만드는 것을 즐기는 개발자입니다. 깔끔한 코드 작성과 웹 성능 최적화에 깊은 관심이 있습니다.
         </p>
       </div>
     </main>
